@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- 🔥 LOGO -->
-<img src="Chohan%20Ecommerce%20Website/onlineshop_7877.png" alt="Chohan Ecommerce Logo" width="80" />
+<img src="Chohan%20Ecommerce%20Website/onlineshop_78377.png" alt="Chohan Ecommerce Logo" width="80" />
 
 <br /><br />
 
